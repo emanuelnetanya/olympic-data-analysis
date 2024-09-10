@@ -15,7 +15,7 @@ This Excel-based project offers a comprehensive analysis of Olympic Games data f
 ## Technical Highlights
 - Advanced Excel formulas and functions
 - VBA programming for custom macros and automation
-- Statistical tools implementation (t-test, ANOVA, random regression)
+- Statistical tools implementation (t-test, ANOVA, random regression, data analysis)
 - Data cleaning and preprocessing techniques
 - Dynamic chart creation and formatting
 
@@ -30,15 +30,8 @@ This Excel-based project offers a comprehensive analysis of Olympic Games data f
 - Microsoft Excel (version 2016 or later recommended)
 - Enabled macros for full functionality
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
-
 ## Author
-[Your Name]
-
-## License
-This project is licensed under the [choose a license] License - see the [LICENSE.md](LICENSE.md) file for details.
+Emmanuel Netanya, Chen Biazi, Amir Ramon, Tamar Ovad, Gal Zeevi.
 
 ## Acknowledgments
 - Olympic Committee for the raw data
-- [Any other acknowledgments]
