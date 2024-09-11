@@ -41,7 +41,7 @@ Note: You may need permission to access the file. If you encounter access issues
 - Enabled macros for full functionality
 
 ## Author
-Emmanuel Netanya, Chen Biazi, Amir Ramon, Tamar Ovad, Gal Zeevi.
+Emmanuel Netanya, Chen Bayazi, Amir Ramon, Tamar Ovad, Gal Zeevi.
 
 ## Acknowledgments
 - Olympic Committee for the raw data
