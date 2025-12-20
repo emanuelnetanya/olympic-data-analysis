@@ -22,7 +22,7 @@ This Excel-based project offers a comprehensive analysis of Olympic Games data f
 ## Downloading the Project
 Due to the file size, the project is stored in an external storage service. To access the Excel file:
 
-1. Click on the following link: [Link to Excel Project]([https://postjceac-my.sharepoint.com/:f:/g/personal/eimnoelna_post_jce_ac_il/Ein24ENat6FFlK-qNcXzWCIBw_cTGuC4wpDZI4SCPMSCaQ?e=ibQhaF](https://drive.google.com/drive/folders/1zeQ2-97oGP9TBBOstxD81NGyAF5jts2d?usp=drive_link))
+1. Click on the following link: [Link to Excel Project](https://drive.google.com/drive/folders/1zeQ2-97oGP9TBBOstxD81NGyAF5jts2d?usp=drive_link)
 2. Download the file to your computer.
 3. Open the file using Microsoft Excel (version 2016 or later recommended).
 4. Enable macros if prompted to use all project functions.
